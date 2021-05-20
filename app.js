@@ -1,7 +1,6 @@
 "use strict";
 console.log("Laba, cia app.js failas");
 
-console.log("hello world");
 const { subtract, subtractTwo } = require("./pirmas");
 const { divide, multiply } = require("./antras");
 
