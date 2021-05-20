@@ -1,4 +1,3 @@
-"use strict";
 console.log("Laba, cia app.js failas");
 
 const { subtract, subtractTwo } = require("./pirmas");
