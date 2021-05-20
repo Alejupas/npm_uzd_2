@@ -1,1 +1,1 @@
-console.log("Laba, cia app.js");
+console.log("Laba, cia app.js CHANGED");
